@@ -1,0 +1,14 @@
+
+  body{background-color:#f9f9f9;}
+  body{font-family:Helvetica;}
+  a:link, a:visited{color:#e1e9b7;text-decoration: none;}
+  a:hover{color:#FFFFFF;text-decoration: none;}
+  nav ul{list-style: none;margin:0; padding:1%;;text-align:center;background-color:#262626;margin-top:.3%; }
+  nav ul li{display:inline;}
+  nav ul li a{text-decoration: none;padding:1%;background-color:#262626;color:white;}
+  table{height: 100%;
+  background: -webkit-linear-gradient(#428bca,#5bc0de);
+  background: -moz-linear-gradient(#428bca,#5bc0de;
+  background: -ms-linear-gradient(#428bca,#5bc0de;
+  background: -o-linear-gradient(#428bca,#5bc0de;
+  }
